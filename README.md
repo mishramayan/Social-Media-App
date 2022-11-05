@@ -1,5 +1,3 @@
-# final-project-bestapp
-
 <h1  align="center">Mayan Social - A Social Media Site</h1><hr><br />
 
 <h1 align="center">🌐 MERN Stack</h1>
